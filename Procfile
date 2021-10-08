@@ -1,1 +1,1 @@
-worker :  npm install terminal-kit && npm start
+worker :  bash install.sh && npm start
